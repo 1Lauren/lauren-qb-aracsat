@@ -26,8 +26,8 @@ RegisterNetEvent("aracsatma:server")
 AddEventHandler("aracsatma:server", function(source,karsi,plate,model)
 	local src = source
 	local target = karsi.PlayerData.source
-    local Player = Framework.Functions.GetPlayer(src)
-    local tCid = karsi.PlayerData.citizenid
+    	local Player = Framework.Functions.GetPlayer(src)
+    	local tCid = karsi.PlayerData.citizenid
 	local isim = karsi.PlayerData.charinfo.firstname.." "..karsi.PlayerData.charinfo.lastname -- karşı oyuncu ismi
 	local ismim = Player.PlayerData.charinfo.firstname.." "..Player.PlayerData.charinfo.lastname -- kendi  ismi
     Framework.Functions.ExecuteSql(false, "SELECT * FROM `characters_vehicles` WHERE `citizenid` = '"..Player.PlayerData.citizenid.."' AND `plate` = '"..plate.."'", function(result)
