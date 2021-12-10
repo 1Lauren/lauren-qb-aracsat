@@ -8,7 +8,7 @@ import isminiz ne ise ona göre düzenleyebilirsiniz framework olarka ayarlı
 Framework yazısını QBCore yapabilirsiniz
 
 - Aracın şöför koltuğunda olmalısınız
--Satacağınız kişi yakınınız da olmalı
+- Satacağınız kişi yakınınız da olmalı
 - /aracsat ID Plaka
 
 
