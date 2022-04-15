@@ -3,7 +3,7 @@ sell your vehicle to the player for QBCore
 
 ----[TR]----
 QBCore içindir.
-import isminiz ne ise ona göre düzenleyebilirsiniz framework olarka ayarlı
+import isminiz ne ise ona göre düzenleyebilirsiniz framework olarak ayarlı
 
 Framework yazısını QBCore yapabilirsiniz
 
