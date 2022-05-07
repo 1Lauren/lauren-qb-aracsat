@@ -21,4 +21,4 @@ It is for QBCore.
 - Don't forget to set the mysql vehicles table name in server.lua!
 
 Lauren Development
-https://discord.gg/fjZwXqd7UJ
+https://discord.gg/cNWkGqUYk4
